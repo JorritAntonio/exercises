@@ -1,1 +1,2 @@
-# Write your code here
+def odd_keys_dict(dictionary):
+    pass
